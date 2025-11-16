@@ -1,0 +1,7 @@
+E:\Сетевое программирование\Laba3\localScanner\localScanner\bin\Debug\localScanner.exe.config
+E:\Сетевое программирование\Laba3\localScanner\localScanner\bin\Debug\localScanner.exe
+E:\Сетевое программирование\Laba3\localScanner\localScanner\bin\Debug\localScanner.pdb
+E:\Сетевое программирование\Laba3\localScanner\localScanner\obj\Debug\localScanner.csproj.AssemblyReference.cache
+E:\Сетевое программирование\Laba3\localScanner\localScanner\obj\Debug\localScanner.csproj.CoreCompileInputs.cache
+E:\Сетевое программирование\Laba3\localScanner\localScanner\obj\Debug\localScanner.exe
+E:\Сетевое программирование\Laba3\localScanner\localScanner\obj\Debug\localScanner.pdb
