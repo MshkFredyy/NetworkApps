@@ -1,0 +1,7 @@
+E:\Сетевое программирование\Laba4\Laba4\bin\Debug\Laba4.exe.config
+E:\Сетевое программирование\Laba4\Laba4\bin\Debug\Laba4.exe
+E:\Сетевое программирование\Laba4\Laba4\bin\Debug\Laba4.pdb
+E:\Сетевое программирование\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+E:\Сетевое программирование\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+E:\Сетевое программирование\Laba4\Laba4\obj\Debug\Laba4.exe
+E:\Сетевое программирование\Laba4\Laba4\obj\Debug\Laba4.pdb

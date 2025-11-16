@@ -1,0 +1,7 @@
+E:\Сетевое программирование\Laba4\portCheck\bin\Debug\portCheck.exe.config
+E:\Сетевое программирование\Laba4\portCheck\bin\Debug\portCheck.exe
+E:\Сетевое программирование\Laba4\portCheck\bin\Debug\portCheck.pdb
+E:\Сетевое программирование\Laba4\portCheck\obj\Debug\portCheck.csproj.AssemblyReference.cache
+E:\Сетевое программирование\Laba4\portCheck\obj\Debug\portCheck.csproj.CoreCompileInputs.cache
+E:\Сетевое программирование\Laba4\portCheck\obj\Debug\portCheck.exe
+E:\Сетевое программирование\Laba4\portCheck\obj\Debug\portCheck.pdb

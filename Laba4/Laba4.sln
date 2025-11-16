@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba4", "Laba4\Laba4.csproj", "{B06FC46D-43CC-4A29-B78D-CD517BC1374E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portCheck", "portCheck\portCheck.csproj", "{7A84B230-F353-4D76-A88F-E4012381CF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06FC46D-43CC-4A29-B78D-CD517BC1374E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06FC46D-43CC-4A29-B78D-CD517BC1374E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06FC46D-43CC-4A29-B78D-CD517BC1374E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06FC46D-43CC-4A29-B78D-CD517BC1374E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A84B230-F353-4D76-A88F-E4012381CF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A84B230-F353-4D76-A88F-E4012381CF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A84B230-F353-4D76-A88F-E4012381CF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A84B230-F353-4D76-A88F-E4012381CF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89C6EE6-16F0-44D7-8898-E514029BE6FE}
+	EndGlobalSection
+EndGlobal
