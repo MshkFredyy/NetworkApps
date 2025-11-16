@@ -1,0 +1,10 @@
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\bin\Debug\Laba6(2).exe.config
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\bin\Debug\Laba6(2).exe
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\bin\Debug\Laba6(2).pdb
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6(2).csproj.AssemblyReference.cache
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6_2_.Form1.resources
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6_2_.Properties.Resources.resources
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6(2).csproj.GenerateResource.cache
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6(2).csproj.CoreCompileInputs.cache
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6(2).exe
+E:\Сетевое программирование\Laba6(2)\Laba6(2)\obj\Debug\Laba6(2).pdb

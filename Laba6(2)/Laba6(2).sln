@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba6(2)", "Laba6(2)\Laba6(2).csproj", "{59962747-54DE-4111-8566-17C1E2B8027A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLserv", "CLserv\CLserv.csproj", "{A66000C5-5A6C-44FC-A218-4C7935D018DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59962747-54DE-4111-8566-17C1E2B8027A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59962747-54DE-4111-8566-17C1E2B8027A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59962747-54DE-4111-8566-17C1E2B8027A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59962747-54DE-4111-8566-17C1E2B8027A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66000C5-5A6C-44FC-A218-4C7935D018DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66000C5-5A6C-44FC-A218-4C7935D018DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66000C5-5A6C-44FC-A218-4C7935D018DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66000C5-5A6C-44FC-A218-4C7935D018DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6025D39C-9EBE-4242-B5A8-18A6FA54AE99}
+	EndGlobalSection
+EndGlobal

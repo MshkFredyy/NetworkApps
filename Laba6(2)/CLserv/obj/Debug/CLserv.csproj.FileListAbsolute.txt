@@ -1,0 +1,10 @@
+E:\Сетевое программирование\Laba6(2)\CLserv\bin\Debug\CLserv.exe.config
+E:\Сетевое программирование\Laba6(2)\CLserv\bin\Debug\CLserv.exe
+E:\Сетевое программирование\Laba6(2)\CLserv\bin\Debug\CLserv.pdb
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.csproj.AssemblyReference.cache
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.Form1.resources
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.Properties.Resources.resources
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.csproj.GenerateResource.cache
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.csproj.CoreCompileInputs.cache
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.exe
+E:\Сетевое программирование\Laba6(2)\CLserv\obj\Debug\CLserv.pdb
